@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite both the manuscript and the Zenodo DOI of the release you used."
+title: "vitek2-n442-ast-validation: R pipeline for evaluation of the VITEK 2 AST-N442 card against reference MIC methods"
+type: software
+authors:
+  - family-names: Gravey
+    given-names: Francois
+    orcid: "https://orcid.org/0000-0001-8672-8286"
+    affiliation: CHU de Caen Normandie; UNICAEN/UNIROUEN INSERM, DYNAMICURE UMR-S 1311
+  - family-names: Bouland
+    given-names: Guillaume
+    affiliation: CHU de Caen Normandie
+repository-code: "https://github.com/fgravey/vitek2-n442-ast-validation"
+abstract: "R analysis pipeline used in 'Performance of the VITEK AST-N442 Card for Susceptibility Testing of Hospital-Acquired Enterobacterales' (Microbiology Spectrum). Computes Essential Agreement, bias, Categorical Agreement, VME/ME/miE error rates (ISO 20776-1/2, CLSI M52), McNemar tests, and exploratory Fisher exact subgroup analyses, and generates manuscript figures and supplementary tables."
+keywords:
+  - antimicrobial susceptibility testing
+  - VITEK 2
+  - AST-N442
+  - Enterobacterales
+  - ISO 20776
+  - EUCAST
+  - very major error
+license: MIT

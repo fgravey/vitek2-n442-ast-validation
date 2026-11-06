@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated outputs
+tables/
+figures/
+results/
+plots/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large input (contains the full supplementary dataset — distribute via the journal / Zenodo archive record)
+data/Tableaux_final_analyses_pour_R.xlsx
