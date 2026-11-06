@@ -11,6 +11,11 @@ authors:
     given-names: Guillaume
     affiliation: CHU de Caen Normandie
 repository-code: "https://github.com/fgravey/vitek2-n442-ast-validation"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24015045"
+    description: "Zenodo DOI of the v1.0.0 release"
+version: 1.0.0
 abstract: "R analysis pipeline used in 'Performance of the VITEK AST-N442 Card for Susceptibility Testing of Hospital-Acquired Enterobacterales' (Microbiology Spectrum). Computes Essential Agreement, bias, Categorical Agreement, VME/ME/miE error rates (ISO 20776-1/2, CLSI M52), McNemar tests, and exploratory Fisher exact subgroup analyses, and generates manuscript figures and supplementary tables."
 keywords:
   - antimicrobial susceptibility testing

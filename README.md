@@ -1,5 +1,7 @@
 # vitek2-n442-ast-validation
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24015045-blue)](https://doi.org/10.5281/zenodo.24015045)
+
 R analysis pipeline for the manuscript:
 
 > Bouland G, Isnard C, Daurel C, Fines-Guyon M, Le Hello S, Malandain D, Gravey F. **Performance of the VITEK AST-N442 Card for Susceptibility Testing of Hospital-Acquired Enterobacterales: High Rates of Very Major Errors for Ertapenem and Nitrofurantoin.** *Microbiology Spectrum* (Spectrum01157-26).
@@ -48,4 +50,6 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE).
 
 ## Citation
 
-A DOI will be minted on Zenodo for each release. Please cite both the manuscript and the release DOI.
+Gravey F, Bouland G. *vitek2-n442-ast-validation: R pipeline for evaluation of the VITEK 2 AST-N442 card against reference MIC methods*. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.24015045
+
+Please cite both the manuscript and this release DOI.
